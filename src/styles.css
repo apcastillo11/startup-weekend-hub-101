@@ -27,6 +27,17 @@ a {
   display: flex;
 }
 
+.container {
+  padding-top: 20px;
+}
+
+.profile-pic {
+  background-color: skyblue;
+  border-radius: 50%;
+  color: white;
+  padding: 10px;
+}
+
 @media (max-width: 760px) {
   header {
     padding: 100px;
