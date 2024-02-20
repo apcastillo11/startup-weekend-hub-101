@@ -60,6 +60,10 @@ p {
   padding: 10px;
 }
 
+footer {
+  background-color: aliceblue;
+}
+
 @media (max-width: 760px) {
   header {
     padding: 100px;
