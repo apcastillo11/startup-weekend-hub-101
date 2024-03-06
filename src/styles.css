@@ -75,6 +75,10 @@ p {
   text-align: center;
 }
 
+form label input {
+  width: 75%;
+}
+
 footer {
   background-color: aliceblue;
 }
