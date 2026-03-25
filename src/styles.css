@@ -104,3 +104,17 @@ footer {
     padding: 100px;
   }
 }
+
+@media (max-width: 500px) {
+  p {
+    font-size: 14px;
+  }
+
+  .contact {
+    max-width: 90%;
+  }
+
+  input {
+    font-size: 14px;
+  }
+}
