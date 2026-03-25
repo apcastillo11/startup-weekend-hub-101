@@ -70,13 +70,29 @@ p {
   background-color: aliceblue;
   border: 1px solid #000;
   padding: 20px 0;
-  margin: 0 auto;
+  margin: 10px auto;
   max-width: 50%;
   text-align: center;
 }
 
+.contact p {
+  margin: 0;
+}
+
 form label input {
   width: 75%;
+}
+
+button {
+  background-color: #355c7d;
+  border: none;
+  color: white;
+  font-size: 16px;
+  max-width: 50%;
+  margin: 0 auto;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
 }
 
 footer {
