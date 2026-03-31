@@ -99,6 +99,13 @@ footer {
   background-color: aliceblue;
 }
 
+@media(min-width: 1400px) {
+  body {
+    max-width: 1200px;
+    margin: 0 auto; 
+  }
+}
+
 @media (max-width: 760px) {
   header {
     padding: 100px;
